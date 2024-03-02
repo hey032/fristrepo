@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Advent Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  src: url(s/adventpro/v23/V8mqoQfxVT4Dvddr_yOwrzaFxV7JtdQgFqXdUAQrGp_zgX5sWCpLpCR_S5As.ttf) format('truetype');
+}
